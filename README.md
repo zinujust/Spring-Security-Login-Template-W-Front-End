@@ -3,6 +3,7 @@
 # About
 
 Hi! Thanks for checking out this project. You can use this as a template to begin your projects. 
+
 You get a fully working back-end and front-end application which allows you to register your user and and then sign-in using those credentials. You get back a JWT which is then stored in your Browser storage for you to use in other API calls
 
 # Note
