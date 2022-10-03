@@ -1,0 +1,40 @@
+.landing-page-container {
+  height: calc(100vh - 56px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sign-in-container {
+  height: calc(100vh - 56px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.create-account-container {
+  height: calc(100vh - 56px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  margin: auto;
+
+}
+
+form {
+  width: 400px;
+  padding: 20px;
+  border: 1px solid rgb(0, 132, 255);
+  border-radius: 20px;
+}
+
+input[type="submit"] {
+  margin-top: 10px;
+}
+
+input {
+  margin-bottom: 5px;
+}
